@@ -1,4 +1,4 @@
-# Project Name
+# BoomBikes Bike Sharing Assignment
 
 > Outline a brief description of your project.
 
